@@ -1,9 +1,9 @@
 {
   "Credit": "Credit",
-  "Donate": "Donate",
+  "Donate": "Donează",
   "EULA": "EULA",
   "Email": "Email",
-  "OfficialWebsite": "Official website",
-  "Sponsor": "Sponsor",
-  "VersionStringFormat": "Version: {0}"
+  "OfficialWebsite": "Website oficial",
+  "Sponsor": "Sponsorizează",
+  "VersionStringFormat": "Versiune: {0}"
 }
